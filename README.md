@@ -1,8 +1,8 @@
-# Nome do Projeto
+# Slide de boas memórias no senai
 
 Esse é o primeiro projeto do ultimo semestre da materia de Front-end com o professoar Leonid, o projeto é um slide de boas memórias que tenho de ambientes do Senai
 
-# Funcionalidades
+# Funcionalidades 
 
 - Slide de imagens com botões de navegação
 - Consumo de API via JSON Server
