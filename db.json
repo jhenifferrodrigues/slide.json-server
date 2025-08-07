@@ -1,0 +1,49 @@
+{
+    "slides": [
+      {
+        "id": 1,
+        "imagem": "https://i.postimg.cc/s2xQMZ8H/foto1.jpg",
+        "descricao": "Essa foi a primeira vez que experimentei o famoso morango do amor no Senai 🍓❤️"
+      },
+      {
+        "id": 2,
+        "imagem": "https://i.postimg.cc/gk42323C/foto2.jpg",
+        "descricao": "A Biblioteca é um dos meus lugares favoritos, onde sempre ficamos em horário de descanço."
+      },
+      {
+        "id": 3,
+        "imagem": "https://i.postimg.cc/rmS8sV8Y/foto3.jpg",
+        "descricao": "O elevador me trás boas memorias, porque ja fiquei presa com a Manu pra gravar um video para o nosso projeto dos lacres."
+      },
+      {
+        "id": 4,
+        "imagem": "https://i.postimg.cc/JnWL9fb3/foto4.jpg",
+        "descricao": "A Oficina me lembra a visita no Senai, e tambem me lembra a minha amiga Becca, por que ela faz eletro."
+      },
+      {
+        "id": 6,
+        "imagem": "https://i.postimg.cc/yxdr5jrX/foto6.jpg",
+        "descricao": "Essa foi uma das salas onde o professor Vitor deu aula de Projetos pra nós, minha materia favorita do segundo termo."
+      },
+      {
+        "id": 7,
+        "imagem": "https://i.postimg.cc/50PswvNH/foto7.jpg",
+        "descricao": "Nossa mesa do refeitorio, onde sempre lanchamos e fofocamos."
+      },
+      {
+        "id": 8,
+        "imagem": "https://i.postimg.cc/wMZFrpNg/foto8.jpg",
+        "descricao": "Esse é o professor Vitor no dia que veio se despedir de nós 🚀"
+      },
+      {
+        "id": 9,
+        "imagem": "https://i.postimg.cc/SsKrNs7m/foto9.jpg",
+        "descricao": "A porta que faz barulho de carro freiando."
+      },{
+        "id": 10,
+        "imagem": "https://i.postimg.cc/k5qszw26/fotodespedida.jpg",
+        "descricao": "Eu e meus colegas se despedindo do prof."
+      }
+    ]
+  }
+  
